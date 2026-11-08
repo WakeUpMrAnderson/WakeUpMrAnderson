@@ -4,16 +4,15 @@
 
 Ronin of the terminal. Dual-wielding code and deadlines — one sword for the build, one for the ship.
 
-[![GitHub](https://img.shields.io/badge/GitHub-1E2630?style=flat-square&logo=github&logoColor=EF8B73)](https://github.com/WakeUpMrAnderson)
-[![Focus](https://img.shields.io/badge/Focus-Mindful%20Code-1E2630?style=flat-square&logo=dot&logoColor=E5A093)](#)
-[![Vibes](https://img.shields.io/badge/Vibes-Dusk%20%26%20Steel-1E2630?style=flat-square&logo=dot&logoColor=4A6B69)](#)
+
+<p align="center">
+  <img src="./assets/ascii.png" width="800" alt="ASCII art portrait">
+</p>
 
 <br>
 
 
-## ⚔ Forged by my own hand
-
-Projects I've built from the ground up — no forks, no borrowed steel.
+## ⚔ Forged or Re-Forged by my hand
 
 <br>
 
