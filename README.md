@@ -1,43 +1,6 @@
 <div align="center">
-
-```
-                      ██
-                     ████
-                    ██████            宮
-                   ████████      ███    本
-                   ████████       █    武
-                   ████████       █    蔵
-                 ██████████████  ███
-               ███████████████████
-              ███████████████████ ▓
-               █████████████████  ▓
-                ███████████████   ▓
-                ███████████████   ▓
-                 █████████████    ▓
-                 █████████████    ▓
-               █ ██████████████   ▓
-              █ ████████████████  ▓
-             █ ██████████████████ ▓
-            █ ███████████████████ ▓
-           █  ███████████████████ ▓
-          █   ███████████████████ ▓
-         █    ███████████████████ ▓
-        █     ███████████████████ ▓
-       █      ███████       ██████ ▓
-                                  ▓
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-      宮本武蔵  —  MUSASHI  —  五輪書
-```
-
-**The way is in training. Become one with the blade.**
-
-*"There is more than one path to the top of the mountain."*
-— Miyamoto Musashi, *The Book of Five Rings*
-
-<br>
-
-# 宮本武蔵 · WAKEUPMRANDERSON
+  
+# WAKEUPMRANDERSON
 
 Ronin of the terminal. Dual-wielding code and deadlines — one sword for the build, one for the ship.
 
@@ -47,19 +10,6 @@ Ronin of the terminal. Dual-wielding code and deadlines — one sword for the bu
 
 <br>
 
-## 🌅 Palette — sampled from dusk over the East River
-
-| Chip | Hex | Name |
-|:---:|:---:|:---|
-| ![#0E1217](https://img.shields.io/badge/%230E1217-0E1217?style=flat-square) | `#0E1217` | Midnight Slate |
-| ![#1E2630](https://img.shields.io/badge/%231E2630-1E2630?style=flat-square) | `#1E2630` | Tower Charcoal |
-| ![#46555C](https://img.shields.io/badge/%2346555C-46555C?style=flat-square) | `#46555C` | Bridge Steel |
-| ![#4A6B69](https://img.shields.io/badge/%234A6B69-4A6B69?style=flat-square) | `#4A6B69` | East River Teal |
-| ![#E5A093](https://img.shields.io/badge/%23E5A093-E5A093?style=flat-square) | `#E5A093` | Dusky Rose |
-| ![#EF8B73](https://img.shields.io/badge/%23EF8B73-EF8B73?style=flat-square) | `#EF8B73` | Salmon Glow |
-| ![#F2B7A7](https://img.shields.io/badge/%23F2B7A7-F2B7A7?style=flat-square) | `#F2B7A7` | First Light |
-
-<br>
 
 ## ⚔ Forged by my own hand
 
@@ -95,11 +45,5 @@ subtitle files for Persian text, wrapped in a native-feeling GUI.
 > 4. Never depart from the Way.
 
 — from the *Dokkōdō*, Musashi's twenty-one precepts, written a week before his death
-
-<br>
-
----
-
-*Palette sampled from ["Brooklyn Bridge at dusk"](https://unsplash.com/photos/romHGaKouwg) by Raphael Lopes · Unsplash*
 
 </div>
